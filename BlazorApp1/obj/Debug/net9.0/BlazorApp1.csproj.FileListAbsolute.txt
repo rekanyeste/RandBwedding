@@ -77,3 +77,4 @@ c:\Users\rekab\Desktop\Egyetem\1. félév\Lagzi_web\BlazorApp1\obj\Debug\net9.0\
 c:\Users\rekab\Desktop\Egyetem\1. félév\Lagzi_web\BlazorApp1\obj\Debug\net9.0\BlazorApp1.pdb
 c:\Users\rekab\Desktop\Egyetem\1. félév\Lagzi_web\BlazorApp1\obj\Debug\net9.0\BlazorApp1.genruntimeconfig.cache
 c:\Users\rekab\Desktop\Egyetem\1. félév\Lagzi_web\BlazorApp1\obj\Debug\net9.0\ref\BlazorApp1.dll
+c:\Users\rekab\Desktop\Egyetem\1. félév\Lagzi_web\BlazorApp1\obj\Debug\net9.0\BlazorApp1.sourcelink.json
